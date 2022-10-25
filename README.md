@@ -18,10 +18,25 @@ Histogram below displays the distribution of price which is almost normal distri
 
 <img src ="https://github.com/arzurahimli/HOUSE_PRICE_EDA/blob/main/DATA/GRAPHS%20and%20TABLES/price_distribution.png" width="1000" height="auto" >
 
+#### AVERAGE PRICE BY CITY
+The bar graph below provides information aboout the average price by city. 
+
+<img src ="https://github.com/arzurahimli/HOUSE_PRICE_EDA/blob/main/DATA/GRAPHS%20and%20TABLES/Average_price_by_city.png" width="1000" height="auto" >
+
+#### CORRELATION BETWEEN PRICE AND LOT
+Baed on the regression plot between price and square foot of the houses, it is clear that size of lot has statistically significant effect on the price. Price of the house increases as square foot increases.
+
+<img src ="https://github.com/arzurahimli/HOUSE_PRICE_EDA/blob/main/DATA/GRAPHS%20and%20TABLES/correlation_between_price_and_lot.png" width="1000" height="auto" >
+
 #### AGE DISTRIBUTION
 The provided histogram illustrates the how houses were distributed based on their ages. A glance at graph reveals that average age of houses in this area is 50.
 
 <img src ="https://github.com/arzurahimli/HOUSE_PRICE_EDA/blob/main/DATA/GRAPHS%20and%20TABLES/age_distribution.png" width="1000" height="auto" >
+
+The correlation map indicates that there is a negative correlation between price of the house and age. As age of house increases, price of the house decreases.
+
+<img src ="https://github.com/arzurahimli/HOUSE_PRICE_EDA/blob/main/DATA/GRAPHS%20and%20TABLES/correlation_between_price_and_age.png" width="1000" height="auto" >
+
 #### DISTRIBUTION OF THE HOUSES
 This paragraphs holds information about the distribution of houses by number of floors, bedrooms, selling conditions and view of the houses. Let's analyze each of them separately.
 
